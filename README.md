@@ -1,3 +1,7 @@
+Project done by:
+- Manthan Khandale
+- Srushti Hadke
+  
 # Trim Video with VLC
 
 > This will only work on `trim` branch.
